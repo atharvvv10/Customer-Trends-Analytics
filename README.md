@@ -175,27 +175,16 @@ Enables detailed customer behavior analysis.
 ```bash
 Customer-Trends-Analytics/
 │
-├── data/
-│ ├── raw/
-│ └── processed/
+├── Dataset/
+│   └── customer_shopping_behavior.xlsx
 │
-├── notebooks/
-│ └── customer_analysis.ipynb
+├── Customer Shopping Behavior Analysis Report.pdf
+├── Customer Trends BRD.pdf
+├── Customer-Shopping-Behavior-Analysis.pptx
+├── Customer_Shopping_Behavior_Analysis.pdf
 │
-├── sql/
-│ ├── schema.sql
-│ └── customer_queries.sql
-│
-├── dashboard/
-│ ├── Customer_Trends.pbix
-│ └── Customer_Trends.pdf
-│
-├── docs/
-│ ├── Customer_Trends_BRD.pdf
-│ └── Customer_Trends_Report.pdf
-│
-├── Images/
-│ └── Dashboard Screenshots/
+├── customer_behavior_dashboard.pbix
+├── customer_behavior_sql_queries.sql
 │
 └── README.md
 ```
@@ -218,7 +207,6 @@ Customer-Trends-Analytics/
 - 📝 SQL Queries  
 - 🧪 Jupyter Notebook  
 - 🗂 Processed Dataset  
-- 🖼 Dashboard Screenshots  
 
 ---
 
