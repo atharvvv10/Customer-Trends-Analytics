@@ -199,8 +199,6 @@ Customer-Trends-Analytics/
 │
 └── README.md
 ```
-yaml
-Copy code
 
 ---
 
